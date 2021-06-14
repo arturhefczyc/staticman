@@ -1,4 +1,0 @@
-version: 6
-imports:
-- projectName: templates
-  tag: v1.0
