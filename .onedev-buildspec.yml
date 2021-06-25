@@ -1,7 +1,7 @@
 version: 7
 imports:
 - projectName: Templates
-  tag: v29.0
+  tag: v30.0
 jobs:
 - name: Sync to GitHub
   steps:
