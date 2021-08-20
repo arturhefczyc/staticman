@@ -55,9 +55,7 @@
     "request-promise": "^4.2.2",
     "slug": "^0.9.3",
     "universal-analytics": "^0.4.2",
-    "uuid": "^3.3.2"
-  },
-  "devDependencies": {
+    "uuid": "^3.3.2",
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
     "@babel/eslint-parser": "^7.15.0",
