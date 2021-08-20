@@ -19,6 +19,7 @@ RUN npm install @babel/cli @babel/core @babel/preset-env @babel/node @babel/esli
 
 # Bundle app source
 COPY . /app
+RUN mkdir -p /app/config && echo "{}" > /app/config/production.json
 
 EXPOSE 3000
 
